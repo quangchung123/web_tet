@@ -1,0 +1,93 @@
+.header-wrapper {
+    position: relative;
+    height: 800px;
+    width: 100%;
+    background-image: url('../image/banner/anh7.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50% 50%;
+}
+
+.header-wrapper::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.header-wrapper::after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.header-wrapper .header-info,
+.header-wrapper .hotline {
+    position: relative;
+    z-index: 1;
+}
+
+.header-wrapper .header-info {
+    display: flex;
+    color: white;
+    padding-left: 200px;
+    padding-top: 30px;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.hotline {
+    color: white;
+    padding-right: 30px;
+}
+
+.header-wrapper .header-nav {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 200px 40px 200px;
+    color: white;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 1.5rem;
+}
+
+.header-wrapper .header-nav-text:hover {
+    color: rgb(230, 193, 116);
+    cursor: pointer;
+}
+
+.header-wrapper .text-box {
+    height: 400px;
+    margin-top: 90px;
+}
+
+.text-box h3,
+.text-box h4 {
+    position: relative;
+    color: white;
+    font-size: 28px;
+}
+
+.text-box h3 {
+    font-size: 38px;
+}
+
+.text-box div {
+    border-bottom: 4px solid white;
+    width: 15%;
+    margin: auto;
+    padding: 10px 0 10px 0;
+}
+
+.text-box span {
+    color: rgb(230, 193, 116);
+    position: relative;
+    font-size: 22px;
+}
+
