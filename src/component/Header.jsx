@@ -1,5 +1,8 @@
 import '../styles/header.css'
 const Header = () => {
+    const handleReload = () => {
+        window.location.reload();
+    };
 
     return (
         <div className="header-wrapper">
@@ -12,12 +15,12 @@ const Header = () => {
                 </div>
             </div>
             <div className="header-nav">
-                <div className="header-nav-logo">
+                <button className="header-nav-logo" onClick={handleReload}>
                     Tết Việt
-                </div>
-                <div className="header-nav-text">
-                   Trang chủ
-                </div>
+                </button>
+                <button className="header-nav-text" onClick={handleReload}>
+                        Trang chủ
+                </button>
             </div>
            <div className="text-box">
                 <h3 className="uppercase">
