@@ -19,6 +19,7 @@ const Content = () => {
                 <p>
                     Đón xuân 2024 TẾT VIỆT cho ra mắt bộ sưu tập
                     <br />
+                    PHÚ QUÝ ĐOÀN VIÊN
                 </p>
                 {openDescription && (
                     <div className="header-button ">
