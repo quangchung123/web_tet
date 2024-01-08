@@ -23,7 +23,7 @@ const description = {
                         "- Coffee Việt Legend\n" +
                         "- Kẹo Lemeci Love\n" +
                         "- Hộp gỗ + túi giấy",
-    TET_05_DESCRIPTION: "- Vang Italy Labreno\n" +
+    TET_05_DESCRIPTION: "- Vang Italy Rosso 1993\n" +
                         "- Bánh France Gourmet tour\n" +
                         "- Chocolate Golden\n" +
                         "- Coffee Việt Legend\n" +

@@ -130,21 +130,21 @@ const productTet01 = [
         price: price.TET_21_PRICE,
         description: description.TET_21_DESCRIPTION,
         type: type.type_01,
-        name: name.name_21
+        name: name.name_15
     },
     {
         urlImage1: productImage.anh22_1,
         price: price.TET_22_PRICE,
         description: description.TET_22_DESCRIPTION,
         type: type.type_01,
-        name: name.name_22
+        name: name.name_16
     },
     {
         urlImage1: productImage.anh23_1,
         price: price.TET_23_PRICE,
         description: description.TET_23_DESCRIPTION,
         type: type.type_01,
-        name: name.name_24
+        name: name.name_17
     },
     {
         urlImage1: productImage.anh24_1,
@@ -152,7 +152,7 @@ const productTet01 = [
         price: price.TET_24_PRICE,
         description: description.TET_24_DESCRIPTION,
         type: type.type_01,
-        name: name.name_23
+        name: name.name_18
     },
 ]
 export default productTet01;
