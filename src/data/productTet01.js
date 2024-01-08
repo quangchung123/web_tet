@@ -1,6 +1,6 @@
-import price from "./price";
-import description from "./description";
-import productImage from "../image/product/productImage";
+import {price, priceAdd01} from "./price";
+import {description, descriptionAdd01} from "./description";
+import {productImage, productImageAdd01} from "../image/product/productImage";
 import type from "./type";
 import name from "./name";
 
@@ -153,6 +153,20 @@ const productTet01 = [
         description: description.TET_24_DESCRIPTION,
         type: type.type_01,
         name: name.name_18
+    },
+    {
+        urlImage1: productImageAdd01.anh19_1_1,
+        price: priceAdd01.TET_19_PRICE,
+        description: descriptionAdd01.TET_19_DESCRIPTION,
+        type: type.type_01,
+        name: name.name_19
+    },
+    {
+        urlImage1: productImageAdd01.anh20_1_1,
+        price: priceAdd01.TET_20_PRICE,
+        description: descriptionAdd01.TET_20_DESCRIPTION,
+        type: type.type_01,
+        name: name.name_20
     },
 ]
 export default productTet01;

@@ -1,4 +1,4 @@
-const price = {
+export const price = {
     TET_01_PRICE: "2.000.000",
     TET_02_PRICE: "2.000.000",
     TET_03_PRICE: "2.000.000",
@@ -13,7 +13,7 @@ const price = {
     TET_12_PRICE: "1.600.000",
     TET_13_PRICE: "2.500.000",
     TET_14_PRICE: "2.300.000",
-    TET_15_PRICE: "2.500.000",
+    TET_15_PRICE: "2.200.000",
     TET_16_PRICE: "3.000.000",
     TET_17_PRICE: "2.500.000",
     TET_18_PRICE: "2.500.000",
@@ -23,5 +23,21 @@ const price = {
     TET_22_PRICE: "2.500.000",
     TET_23_PRICE: "3.000.000",
     TET_24_PRICE: "2.000.000",
-}
-export default price;
+};
+
+export const priceAdd01 = {
+    TET_19_PRICE: "2.400.000",
+    TET_20_PRICE: "2.500.000",
+};
+
+export const priceAdd02 = {
+    TET_01_PRICE: "1.500.000",
+    TET_02_PRICE: "1.600.000",
+    TET_03_PRICE: "1.700.000",
+    TET_04_PRICE: "1.600.000",
+    TET_05_PRICE: "1.600.000",
+    TET_06_PRICE: "1.900.000",
+    TET_07_PRICE: "1.500.000",
+    TET_08_PRICE: "1.400.000",
+
+};
