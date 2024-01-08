@@ -165,6 +165,14 @@ const description = {
                         "- Trà Ô Long.\n" +
                         "- Xoài sấy dẻo.\n" +
                         "- Hạnh nhân rang bơ Mfood \n" +
+                        "- Hộp gỗ + túi giấy",
+
+    TET_24_DESCRIPTION: "- Vang Italy Rosso 1933\n" +
+                        "- Bánh France Almond Pastry\n" +
+                        "- Kẹo sâm Korean\n" +
+                        "- Coffee Việt Legend.\n" +
+                        "- Trà Ô Long.\n" +
+                        "- Kẹo Germany Moments\n" +
                         "- Hộp gỗ + túi giấy"
 
 }

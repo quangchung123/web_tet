@@ -23,6 +23,7 @@ const name = {
     name_21: "Mẫu hộp quà 21",
     name_22: "Mẫu hộp quà 22",
     name_23: "Mẫu hộp quà 23",
+    name_24: "Mẫu hộp quà 24",
 
 }
 export default name;

@@ -31,6 +31,8 @@ import anh20_1 from './item20/anh1.jpg';
 import anh21_1 from './item21/anh1.jpg';
 import anh22_1 from './item22/anh1.jpg';
 import anh23_1 from './item23/anh1.jpg';
+import anh24_1 from './item24/anh1.jpg';
+import anh24_2 from './item24/anh2.jpg';
 
 
 const productImage = {
@@ -66,7 +68,9 @@ const productImage = {
     anh20_1,
     anh21_1,
     anh22_1,
-    anh23_1
+    anh23_1,
+    anh24_1,
+    anh24_2
 };
 
 export default productImage;

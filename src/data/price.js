@@ -22,5 +22,6 @@ const price = {
     TET_21_PRICE: "2.500.000",
     TET_22_PRICE: "2.500.000",
     TET_23_PRICE: "3.000.000",
+    TET_24_PRICE: "2.000.000",
 }
 export default price;

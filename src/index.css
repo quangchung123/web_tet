@@ -11,6 +11,9 @@ code {
   font-family: source-code-pro, Menlocd , Monaco, Consolas, 'Courier New',
     monospace;
 }
+/** {*/
+/*  min-width: 483px;*/
+/*}*/
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

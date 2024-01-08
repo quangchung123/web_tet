@@ -5,20 +5,8 @@ import type from "./type";
 import name from "./name";
 
 const productTet02 = [
-    {
-        urlImage1: productImage.anh13_1,
-        price: price.TET_13_PRICE,
-        description: description.TET_13_DESCRIPTION,
-        type: type.type_01,
-        name: name.name_13
-    },
-    {
-        urlImage1: productImage.anh14_1,
-        price: price.TET_14_PRICE,
-        description: description.TET_14_DESCRIPTION,
-        type: type.type_01,
-        name: name.name_14
-    },
+
+
     {
         urlImage1: productImage.anh15_1,
         price: price.TET_15_PRICE,
@@ -61,30 +49,10 @@ const productTet02 = [
         urlImage1: productImage.anh20_1,
         price: price.TET_20_PRICE,
         description: description.TET_20_DESCRIPTION,
-        type: type.type_01,
+        type: type.type_02,
         name: name.name_20
 
-    },
-    {
-        urlImage1: productImage.anh21_1,
-        price: price.TET_21_PRICE,
-        description: description.TET_21_DESCRIPTION,
-        type: type.type_01,
-        name: name.name_21
-    },
-    {
-        urlImage1: productImage.anh22_1,
-        price: price.TET_22_PRICE,
-        description: description.TET_22_DESCRIPTION,
-        type: type.type_01,
-        name: name.name_22
-    },
-    {
-        urlImage1: productImage.anh23_1,
-        price: price.TET_23_PRICE,
-        description: description.TET_23_DESCRIPTION,
-        type: type.type_01,
-        name: name.name_23
-    },
+    }
+
 ]
 export default productTet02;
