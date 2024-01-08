@@ -197,62 +197,61 @@ export const descriptionAdd01 = {
 }
 
 export const descriptionAdd02 = {
-    TET_01_DESCRIPTION: "- Vang Italy Labreno\n" +
-                        "- Chocolate Marcepanki\n" +
-                        "- Trà Ô Long\n" +
-                        "- Coffee Legend\n" +
-                        "- Chocolate Ferrero Rocher.\n" +
-                        "- Kẹo Germany Fruit Mix\n" +
-                        "- Hộp gỗ + túi giấy",
+    TET_01_DESCRIPTION: "- Vang France Maison\n" +
+        "- Coffee Việt Legend\n" +
+        "- Bánh Lemeci Petite\n" +
+        "- Chocolate Anh Ournns\n" +
+        "- Nho khô Mỹ\n" +
+        "- Hộp giấy + túi giấy",
 
     TET_02_DESCRIPTION: "- Vang France Maison\n" +
-                        "- Coffee Việt Legend\n" +
-                        "- Bánh Lemeci Petite\n" +
-                        "- Chocolate Anh Ournns\n" +
-                        "- Nho khô Mỹ\n" +
-                        "- Hộp giấy + túi giấy",
+        "- Coffee Việt Legend\n" +
+        "- Bánh Almond Pastry\n" +
+        "- Chocolate Golden\n" +
+        "- Nho khô Mỹ Raisins\n" +
+        "- Hộp giấy + túi giấy",
 
-    TET_03_DESCRIPTION: "- Vang France Maison\n" +
-                        "- Coffee Việt Legend\n" +
-                        "- Bánh Almond Pastry\n" +
-                        "- Chocolate Golden\n" +
-                        "- Nho khô Mỹ Raisins\n" +
-                        "- Hộp giấy + túi giấy",
+    TET_03_DESCRIPTION: "- Vang Dragon Sapo\n" +
+        "- Bánh Lemeci Love\n" +
+        "- Chocolate Golden\n" +
+        "- Trà Ô Long.\n" +
+        "- Thanh hạt dinh dưỡng Mfood\n" +
+        "- Hạnh nhân rang bơ Mfood\n" +
+        "- Coffee Việt Legend\n" +
+        "- Hộp giấy + túi giấy",
 
     TET_04_DESCRIPTION: "- Vang Dragon Sapo\n" +
-                        "- Bánh Lemeci Love\n" +
-                        "- Chocolate Golden\n" +
-                        "- Trà Ô Long.\n" +
-                        "- Thanh hạt dinh dưỡng Mfood\n" +
-                        "- Hạnh nhân rang bơ Mfood\n" +
-                        "- Coffee Việt Legend\n" +
-                        "- Hộp giấy + túi giấy",
+        "- Coffee Việt Legend\n" +
+        "- Bánh Majestic\n" +
+        "- Chocolate Golden\n" +
+        "- Trà Ô Long\n" +
+        "- Hộp giấy + túi giấy",
 
     TET_05_DESCRIPTION: "- Vang Italy Rosso 1933\n" +
-                        "- Coffee Việt Legend\n" +
-                        "- Bánh Lemeci Petite\n" +
-                        "- Chocolate Anh Ournns\n" +
-                        "- Nho khô Mỹ Raisins\n" +
-                        "- Hộp giấy + túi giấy",
+        "- Coffee Việt Legend\n" +
+        "- Bánh Lemeci Petite\n" +
+        "- Chocolate Anh Ournns\n" +
+        "- Nho khô Mỹ Raisins\n" +
+        "- Hộp giấy + túi giấy",
 
     TET_06_DESCRIPTION: "- Vang Italy Labreno\n" +
-                        "- Coffee Việt Legend\n" +
-                        "- Bánh Lemeci Petite\n" +
-                        "- Chocolate Anh Ournns\n" +
-                        "- Nho khô Mỹ Raisins\n" +
-                        "- Hộp giấy + túi giấy",
+        "- Coffee Việt Legend\n" +
+        "- Bánh Lemeci Petite\n" +
+        "- Chocolate Anh Ournns\n" +
+        "- Nho khô Mỹ Raisins\n" +
+        "- Hộp giấy + túi giấy",
 
     TET_07_DESCRIPTION: "- Vang Dragon Sapo\n" +
-                        "- Coffee Việt Legend\n" +
-                        "- Bánh Biscuits Lotus Weisiqi\n" +
-                        "- Kẹo sâm Korean\n" +
-                        "- Trà Ô Long\n" +
-                        "- Hộp giấy + túi giấy",
+        "- Coffee Việt Legend\n" +
+        "- Bánh Biscuits Lotus Weisiqi\n" +
+        "- Kẹo sâm Korean\n" +
+        "- Trà Ô Long\n" +
+        "- Hộp giấy + túi giấy",
 
     TET_08_DESCRIPTION: "- Vang Dragon Sapo\n" +
-                        "- Coffee Việt Legend\n" +
-                        "- Bánh Biscuits Original\n" +
-                        "- Mứt đào Hàn Quốc\n" +
-                        "- Nho khô Mỹ Raisins\n" +
-                        "- Hộp giấy + túi giấy"
+        "- Coffee Việt Legend\n" +
+        "- Bánh Biscuits Original\n" +
+        "- Mứt đào Hàn Quốc\n" +
+        "- Nho khô Mỹ Raisins\n" +
+        "- Hộp giấy + túi giấy",
 }
