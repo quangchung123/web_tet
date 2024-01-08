@@ -19,7 +19,6 @@ const Content = () => {
                 <p>
                     Đón xuân 2024 TẾT VIỆT cho ra mắt bộ sưu tập
                     <br />
-                    PHÚ QUÝ ĐOÀN VIÊN DUY NHẤT TẠI VIỆT NAM
                 </p>
                 {openDescription && (
                     <div className="header-button ">
@@ -28,9 +27,9 @@ const Content = () => {
                 )}
             </div>
             <div className="content-header-top">
-                <p>
-                    SẢN PHẨM BÁN CHẠY
-                </p>
+                {/*<p>*/}
+                {/*    SẢN PHẨM BÁN CHẠY*/}
+                {/*</p>*/}
                 <p className="content-header-line"></p>
             </div>
             {!openDescription ? (

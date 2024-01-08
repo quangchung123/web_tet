@@ -119,7 +119,7 @@ const ProductSlider = ({ selectedProduct }) => {
                     <div className="mt-3 font-bold text-lg">
                         <i className="bi bi-telephone-fill"></i>
                         <span className="ml-4">
-                            0377272837
+                            0857938789
                         </span>
                     </div>
                 </div>

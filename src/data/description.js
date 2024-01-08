@@ -48,7 +48,7 @@ const description = {
                         "- Kẹo sâm Korean.\n" +
                         "- Kẹo Germany Moments\n" +
                         "- Hộp gỗ + túi giấy",
-    TET_09_DESCRIPTION: " Vang Italy Viking\n" +
+    TET_09_DESCRIPTION: "- Vang Italy Viking\n" +
                         "- Bánh France Almond Pastry\n" +
                         "- Chocolate Anh Ournns\n" +
                         "- Coffee Legend.\n" +

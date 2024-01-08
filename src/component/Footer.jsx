@@ -14,7 +14,7 @@ const Footer = () => {
                             <span>
                                 <i className="bi-footer bi-arrow-right-circle-fill"></i>
                             </span>
-                            Chúng tôi cam kết cung cấp những sản phẩm Tết chất lượng cao, đảm bảo an toàn và tươi ngon.
+                            Chúng tôi cam kết cung cấp những sản phẩm Tết chất lượng cao, đảm bảo an toàn và vệ sinh thực phẩm.
                         </p>
                         <p>
                             <span>
