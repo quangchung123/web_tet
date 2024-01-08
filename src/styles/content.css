@@ -102,4 +102,134 @@ div input {
 .group-input {
     margin-top: 10px;
     margin-bottom: 10px;
+}.content-wrapper {
+    height: 100%;
+}
+.content-header {
+    margin-top: 20px;
+    color: rgb(178,0,0);
+    font-size: 28px;
+    font-weight: 700;
+    position: relative;
+}
+.header-button {
+    position: absolute;
+    display: block;
+    top: 25px;
+    left: 25px;
+    color: white !important;
+    background-color: rgb(178,0,0);
+    border-radius: 20px;
+    font-size: 18px;
+}
+.content-header-top {
+    color: black;
+    font-size: 28px;
+    font-weight: 500;
+}
+.content-header-line {
+    border-bottom: 3px solid rgb(230, 193, 116);
+    width: 10%;
+    margin: auto;
+    padding-top: 10px;
+}
+.product_list_one,
+.product_list_two {
+    position: relative;
+}
+.product_list_one_title, .product_list_two_title {
+    color: rgb(178,0,0);
+    font-size: 30px;
+    font-weight: 750;
+    position: absolute;
+    top: -65px;
+    left: 144px;
+}
+.bi-product {
+    color: red;
+    margin-right: 20px;
+    margin-top: 20px;
+    font-size: 40px;
+}
+.bi-product:hover {
+    color: rgb(178,0,0);
+}
+.description-product {
+    display: flex;
+    /*margin-right: 0px;*/
+}
+.name-product {
+    margin: auto;
+    /*margin-top: 15px;*/
+    font-size: 25px;
+    font-weight: 700;
+}
+.line-product {
+    border-bottom: 4px solid #c2b0b0;
+    width: 15%;
+    margin: auto;
+    padding: 10px 0 10px 0;
+}
+div input {
+    border: 1px solid black;
+}
+.number-order {
+    color: black;
+    font-weight: 500;
+    margin-left: 5px;
+}
+.product-detail {
+    font-size: 17px;
+    display: inline-block;
+    /*margin-bottom: 5px;*/
+    margin-top: 17px;
+    font-weight: 600;
+}
+.name-shop {
+    color: rgb(178,0,0);
+    font-size: 25px;
+    font-weight: 700;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.number-order {
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.input-scanner {
+    padding: 0 8px 3px 8px;
+}
+.input-hiden {
+    width: 30px;
+    padding: 0 8px 3px 8px;
+}
+.group-input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 767px) {
+    .product_list_one,
+    .product_list_two {
+        width: 100%;
+    }
+
+    .product_list_one_title, .product_list_two_title {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .grid {
+        grid-template-columns: repeat(1, 1fr);
+        gap: 10px;
+        margin: 0;
+    }
+
+    .h-96 {
+        height: auto;
+    }
+
+    .w-56 {
+        width: 100%;
+    }
 }
