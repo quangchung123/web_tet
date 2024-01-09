@@ -10,9 +10,9 @@ const Header = () => {
                 <div className="hotline">
                     HOTLINE: 0857938789
                 </div>
-                <div className="email">
-                    EMAIL: thuy.datvieteco@gmail.com
-                </div>
+                {/*<div className="email">*/}
+                {/*    EMAIL: thuy.datvieteco@gmail.com*/}
+                {/*</div>*/}
             </div>
             <div className="header-nav">
                 <button className="header-nav-logo" onClick={handleReload}>
